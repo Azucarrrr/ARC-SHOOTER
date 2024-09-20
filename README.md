@@ -1,7 +1,3 @@
 # ARC-SHOOTER
-A static single player shooting game made purely using Vanilla JavaScript.
-Tailwind CSS is used for Designing the UI.
-
-This Game helps better understand the concept of canvas in javascript.
-
-A better understanding of creating classes, functions and other crucial javascript concepts is provided through this project.
+A Projectile Shooting Game
+This is a fast-paced, visually dynamic game built using JavaScript and Canvas. The player controls a projectile-shooting entity surrounded by randomly spawning enemies. Each enemy defeated adds to the player's score, with a point system that rewards precision and speed. The game features smooth animations, color-shifting enemies, and responsive controls, creating an engaging experience for users. It's a simple yet addicting project that showcases the power of Canvas and JavaScript for game development.
